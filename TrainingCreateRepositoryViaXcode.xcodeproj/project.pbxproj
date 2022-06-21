@@ -66,6 +66,7 @@
 				1F4F22C628588BFA0045E689 /* Assets.xcassets */,
 				1F4F22C828588BFA0045E689 /* LaunchScreen.storyboard */,
 				1F4F22CB28588BFA0045E689 /* Info.plist */,
+				1F8483052861EECD002EFFBE /* FirstViewController.swift */,
 			);
 			path = TrainingCreateRepositoryViaXcode;
 			sourceTree = "<group>";
